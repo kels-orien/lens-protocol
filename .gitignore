@@ -16,7 +16,10 @@ build/
 /tasks/follow.ts
 /tasks/collect.ts
 /tasks/test-module.ts
-
+test/Counter.t.sol
+src/Counter.sol
+script/Counter.s.sol
+foundry.toml
 /coverage
 coverage.json
 .coverage_artifacts
